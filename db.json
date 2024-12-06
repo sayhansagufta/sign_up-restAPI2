@@ -1,0 +1,49 @@
+{
+  "wishlist-items": [
+    {
+      "id": "1",
+      "name": "Coding"
+    },
+    {
+      "id": "2",
+      "name": "Makan"
+    },
+    {
+      "id": "3",
+      "name": "Mandi"
+    },
+    {
+      "id": "a202",
+      "name": "test"
+    },
+    {
+      "id": "834b",
+      "name": "hallo"
+    },
+    {
+      "id": "8ca8",
+      "name": "hallo"
+    },
+    {
+      "id": "ef34",
+      "name": "hallo"
+    },
+    {
+      "id": "ab63",
+      "name": "hallo"
+    },
+    {
+      "id": "1607",
+      "name": "hallo"
+    },
+    {
+      "id": "817d",
+      "name": "laptop baru"
+    },
+    {
+      "id": "e867",
+      "name": "Hello World!"
+    }
+  ],
+  "users": []
+}
